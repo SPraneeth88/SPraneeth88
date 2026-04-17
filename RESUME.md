@@ -1,4 +1,4 @@
-# AI Engineer Resume
+# GenAI Engineer Resume
 
 ## Professional Summary
 Enthusiastic and results-driven AI Engineer with over 4 years of experience in designing and implementing machine learning models and AI algorithms. Proven ability to develop innovative solutions that drive efficiency and effectiveness in various projects. 
