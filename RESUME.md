@@ -1,18 +1,19 @@
 # AI Engineer Resume
 
 ## Professional Summary
-Enthusiastic and results-driven AI Engineer with over 5 years of experience in designing and implementing machine learning models and AI algorithms. Proven ability to develop innovative solutions that drive efficiency and effectiveness in various projects. 
+Enthusiastic and results-driven AI Engineer with over 4 years of experience in designing and implementing machine learning models and AI algorithms. Proven ability to develop innovative solutions that drive efficiency and effectiveness in various projects. 
 
 ## Experience
-### AI Engineer  
-Company Name - Location  
-*Dates of Employment*  
+### GenAI Engineer  
+Freelance Consultant - Waterloo, Ontario, Canada/Remote  
+* August 2024 – Present (Approx. 20 Months)*  
 - Developed and deployed machine learning models for predicting customer behavior, resulting in a 20% increase in sales.  
 - Collaborated with cross-functional teams to design AI-driven solutions that improved company processes.
 
-### Data Scientist  
-Company Name - Location  
-*Dates of Employment*  
+### Full-Stack Java Developer  
+Baanyan Software Services Inc. - Edison, New Jersey, USA  
+* February 2022 – July 2024 (Including Extended Project Consulting)*  
+- Spearheaded the development of a full-stack Reservation Processing System (RPS) prototype, owning the project from user requirements to deployment.
 - Conducted data analysis and built predictive models that enhanced decision-making processes.  
 - Presented insights and findings to stakeholders, driving data-driven strategies.
 
@@ -34,10 +35,10 @@ Company Name - Location
 - Published research paper on AI algorithms in a leading tech journal.
 
 ## Education
-**Master’s Degree in Computer Science**  
-University Name - Year  
-**Bachelor’s Degree in Information Technology**  
-University Name - Year  
+** Post-Graduate Degree in IT **  
+Conestoga College - 2024  
+** Bachelor’s Degree in Computer Science & Information Technology **  
+Arizona State University - 2022  
 
 ## Competencies
 - Strong analytical and problem-solving skills.  
