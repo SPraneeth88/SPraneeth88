@@ -1,0 +1,153 @@
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --accent-color: #e74c3c;
+    --font-family: 'Arial', sans-serif;
+    --font-size-base: 16px;
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size-base);
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.about {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 20px;
+    padding: 50px 20px;
+}
+
+.skills div {
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.skills div:hover {
+    transform: translateY(-5px);
+}
+
+.projects {
+    padding: 50px 20px;
+}
+
+.timeline {
+    position: relative;
+    padding: 20px 0;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    border-left: 2px dashed #ccc;
+}
+
+.timeline div {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.timeline div::after {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    background: var(--primary-color);
+    border-radius: 50%;
+}
+
+.education {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.education-card {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: var(--transition);
+}
+
+.education-card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.contact {
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    padding: 50px 20px;
+    text-align: center;
+    color: white;
+}
+
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .skills {
+        grid-template-columns: 1fr;
+    }
+}
