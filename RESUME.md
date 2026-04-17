@@ -1,45 +1,45 @@
-# Sai Praneeth Sankaramanchi
+# AI Engineer Resume
 
-## Contact Information
-- **Email:** sai.praneeth@example.com
-- **Phone:** +1-234-567-8901
-- **LinkedIn:** linkedin.com/in/saipraneeth
+## Professional Summary
+Enthusiastic and results-driven AI Engineer with over 5 years of experience in designing and implementing machine learning models and AI algorithms. Proven ability to develop innovative solutions that drive efficiency and effectiveness in various projects. 
 
-## Summary
-Dedicated professional with a strong background in software development, project management, and technical communication. Proven ability to leverage technical skills to solve complex problems and deliver high-quality solutions.
+## Experience
+### AI Engineer  
+Company Name - Location  
+*Dates of Employment*  
+- Developed and deployed machine learning models for predicting customer behavior, resulting in a 20% increase in sales.  
+- Collaborated with cross-functional teams to design AI-driven solutions that improved company processes.
 
-## Work Experience
-
-### Software Engineer  
-**XYZ Corporation**  
-*June 2023 - Present*  
-- Developed scalable microservices using Node.js and Express.
-- Collaborated with cross-functional teams to enhance application performance by 20%.
-- Implemented CI/CD pipelines which decreased deployment time by 30%.
-
-### Intern Software Developer  
-**ABC Tech**  
-*Jan 2022 - May 2023*  
-- Assisted in the development of a mobile application for e-commerce.
-- Conducted user testing and gathered feedback to improve user experience.
-- Wrote unit tests for multiple components, increasing code coverage to 85%.
+### Data Scientist  
+Company Name - Location  
+*Dates of Employment*  
+- Conducted data analysis and built predictive models that enhanced decision-making processes.  
+- Presented insights and findings to stakeholders, driving data-driven strategies.
 
 ## Technical Skills
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Jenkins
+- Programming Languages: Python, R, Java  
+- Machine Learning Frameworks: TensorFlow, Keras, Scikit-learn  
+- Tools & Technologies: Git, Docker, AWS, SQL  
+- Data Visualization: Matplotlib, Seaborn, Tableau  
 
-## Education
+## Projects
+- **Customer Churn Prediction**  
+  Developed a model that predicts customer churn using historical data, resulting in actionable insights for retention strategies.
 
-### Bachelor of Technology in Computer Science
-**XYZ University**  
-*Graduated: May 2023*  
-- Relevant Coursework: Data Structures, Algorithms, Web Development
+- **AI Chatbot for Customer Service**  
+  Designed an AI-based chatbot that handles customer service queries, reducing response time by 50%.
 
 ## Achievements
-- Winner of the Hackathon 2022 organized by ABC University.
-- Published research paper on "Efficient Algorithms for Data Processing" in XYZ Journal.
+- Awarded "Best Innovator" in 2025 for contributions to AI solutions within the organization.  
+- Published research paper on AI algorithms in a leading tech journal.
 
-## References
-Available upon request.
+## Education
+**Master’s Degree in Computer Science**  
+University Name - Year  
+**Bachelor’s Degree in Information Technology**  
+University Name - Year  
+
+## Competencies
+- Strong analytical and problem-solving skills.  
+- Excellent communication and teamwork abilities.  
+- Committed to continuous learning and adapting to new technologies.
