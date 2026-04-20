@@ -8,7 +8,5 @@ Welcome to my GitHub profile! This repository contains various projects and reso
 - **Interests:** Programming, Open Source, Machine Learning, Web Development
 
 ## Projects
-- [Project 1](https://github.com/SPraneeth88/project1): Description of project 1.
-- [Project 2](https://github.com/SPraneeth88/project2): Description of project 2.
-
+- [Knowledge Bot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/19/14/20260419144401-W5PT2BH7.json): Botpress chat bot called "Knowledge bot" which takes in textual input from the user in a form of document or "copy-pasted text" and then answers any questions based on it and web search as sources.
 Feel free to explore the repositories and reach out if you have any questions or collaboration ideas!
